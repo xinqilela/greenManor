@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "in-search":"/components/in-search/in-search"
+  },
+  "window":{
+    "enablePullDownRefresh": true,
+    "onReachBottomDistance":100
+  }
+}

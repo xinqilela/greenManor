@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<in-search text=''/>
+<swiper indicator-dots='true' indicator-color='rgba(255,255,255,0.6)' indicator-active-color="rgba(0,0,0,0.3)" autoplay="true"        class='swiper-container'>
+  <swiper-item wx:for="{{swipers}}">
+    <image src="{{item.url}}" class="slide-image"/>
+  </swiper-item>
+</swiper>

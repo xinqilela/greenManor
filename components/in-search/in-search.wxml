@@ -1,0 +1,6 @@
+<!--components/in-search/in-search.wxml-->
+<view class='search-container'>
+  <icon type="search" size='16'/>
+  <input type="text"/>
+  <icon type="clear" size='16'/>
+</view>

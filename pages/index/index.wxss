@@ -1,0 +1,7 @@
+/**index.wxss**/
+.swiper-container{
+  height: 40vw;
+}
+.slide-image{
+  width: 100vw;
+}
